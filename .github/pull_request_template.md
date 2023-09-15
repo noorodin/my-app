@@ -18,13 +18,13 @@ _Add more description to describe the changes..._
 - [x] Analytics
 
 
-Before                   |
-:-------------------------:|
+Before
+:-------------------------:
 <img width="400" src="https://myoctocat.com/assets/images/base-octocat.svg">  |
 
 
-After                   |
-:-------------------------:|
+After
+:-------------------------:
 <img width="400" src="https://myoctocat.com/assets/images/base-octocat.svg">  |
 
 
