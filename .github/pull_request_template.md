@@ -21,23 +21,18 @@ _Add more description to describe the changes..._
 
 Original                   |  Updated
 :-------------------------:|:-------------------------:
-** original screenshot **  |  ** updated screenshot **
+<img width="400" src="https://myoctocat.com/assets/images/base-octocat.svg">  |  <img width="400" src="https://myoctocat.com/assets/images/base-octocat.svg">
+
 
 
 
 
 > [!NOTE]
-> Highlights information that users should take into account, even when skimming.
-
-> [!IMPORTANT]
-> Crucial information necessary for users to succeed.
+> Your pull request needs at least 1 approval.
 
 > [!WARNING]
-> Critical content demanding immediate user attention due to potential risks.
+> After this pull request is approved, you shouldn't merge it manually, just put the Jira issue ticket in the `READY FOR QA` column in the Jira board.
 
-
-
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
 
