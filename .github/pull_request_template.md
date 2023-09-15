@@ -18,7 +18,6 @@ _Add more description to describe the changes..._
 - [x] Analytics
 
 
-
 Before                   |
 :-------------------------:|
 <img width="400" src="https://myoctocat.com/assets/images/base-octocat.svg">  |
@@ -34,7 +33,3 @@ After                   |
 
 > [!WARNING]
 > After this pull request is approved, you shouldn't merge it manually, just put the Jira issue ticket in the `READY FOR QA` column in the Jira board.
-
-
-
-
