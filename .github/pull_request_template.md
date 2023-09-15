@@ -19,12 +19,14 @@ _Add more description to describe the changes..._
 
 
 
-Original                   |  Updated
-:-------------------------:|:-------------------------:
-<img width="400" src="https://myoctocat.com/assets/images/base-octocat.svg">  |  <img width="400" src="https://myoctocat.com/assets/images/base-octocat.svg">
+Before                   |
+:-------------------------:|
+<img width="400" src="https://myoctocat.com/assets/images/base-octocat.svg">  |
 
 
-
+After                   |
+:-------------------------:|
+<img width="400" src="https://myoctocat.com/assets/images/base-octocat.svg">  |
 
 
 > [!NOTE]
